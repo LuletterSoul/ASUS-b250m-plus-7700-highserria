@@ -252,6 +252,11 @@
 		<key>Timeout</key>
 		<integer>2</integer>
 	</dict>
+	<key>CPU</key>
+	<dict>
+		<key>Type</key>
+		<string>Unknown</string>
+	</dict>
 	<key>Comment</key>
 	<string>This file is for 10.12.6+ with native KabyLake support</string>
 	<key>Devices</key>
